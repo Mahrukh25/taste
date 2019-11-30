@@ -1,2 +1,2 @@
 # taste
-test repo
+test repository 
